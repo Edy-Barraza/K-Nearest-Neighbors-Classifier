@@ -1,2 +1,2 @@
 # K-Nearest-Neighbors-Classifier
-Trained and tested using hand written digits and face images.
+Implemented using python packaged numpy, scipy, and matplotlib. Trained and tested using hand written digits and face images.
